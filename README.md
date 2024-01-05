@@ -6,3 +6,4 @@ Sharing few gist link to revise JavaScript Topics
 
 [2.jakearchibald?tab=repositories](https://github.com/jakearchibald?tab=repositories)
 
+[3. Google Style Guide](https://google.github.io/styleguide/tsguide.html#arrayt-type)
