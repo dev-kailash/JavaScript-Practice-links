@@ -1,4 +1,4 @@
-# JavaScript-Practice-links
+# JavaScript links
 Sharing few gist link to revise JavaScript Topics
 
 ### Links
@@ -9,3 +9,5 @@ Sharing few gist link to revise JavaScript Topics
 [3. Google Style Guide](https://google.github.io/styleguide/tsguide.html#arrayt-type)
 
 [4. Free Project Links](https://github.com/resumejob/free-project-course)
+
+[5. Best Website List](https://github.com/devakshatt/Best-websites-a-programmer-should-visit/)
