@@ -11,3 +11,7 @@ Sharing few gist link to revise JavaScript Topics
 [4. Free Project Links](https://github.com/resumejob/free-project-course)
 
 [5. Best Website List](https://github.com/devakshatt/Best-websites-a-programmer-should-visit/)
+
+[6. LLD Design](https://github.com/vasanthkumar10/Pesto-LLD/)
+
+[7. 100x Dev Hkirat ](https://github.com/100xDevs-hkirat)
