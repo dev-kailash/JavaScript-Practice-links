@@ -15,3 +15,5 @@ Sharing few gist link to revise JavaScript Topics
 [6. LLD Design](https://github.com/vasanthkumar10/Pesto-LLD/)
 
 [7. 100x Dev Hkirat ](https://github.com/100xDevs-hkirat)
+
+[8. Harsh 609 ](https://github.com/609harsh/JavaScript-with-JC/blob/master/Compose-and-Pipe.js)
